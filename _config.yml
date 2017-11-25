@@ -1,13 +1,10 @@
-name : Foundation5/github pages/Jykill starter
+name : Test
 brand : My Project
 description : This is the description of my project
 keyword : 
-url : http://daigofuji.github.io/jekyll-foundation-6-starter/
-email : daigo@daigofujiwara.com
-twitter : DaigoFuji
-github : DaigoFuji
-author : Daigo Fujiwara
-year : 2016
+url : http://jlarfors.github.io/
+email : jacob@larfors.com
+github: [metadata]
 markdown : kramdown
 exclude :
   - node_modules
